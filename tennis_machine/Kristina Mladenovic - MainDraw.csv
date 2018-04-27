@@ -1,0 +1,316 @@
+Val,TourYear,TourKey,TourType,TourSurface,TourEnv,TourRound,Match,FirstSet,NumSets,OppRank,KristinaRank,OppID,OppName,OppSurname
+1,2009,AUS,Australian Open,Major,,1st,Loss,Win,Three,15,999,105,Patty,Schnyder
+2,2009,FRE,French Open,Major,,1st,Loss,Loss,Three,53,338,80,Magdalena,Rybarikova
+3,2009,USO,US Open,Major,,1st,Loss,Loss,Two,113,291,127,Stephanie,Dubois
+4,2010,STR,Strasbourg,International,,1st,Win,,Three,76,235,126,Stefanie,Voegele
+5,2010,STR,Strasbourg,International,,2nd,Loss,,Two,58,235,16,Anastasija,Sevastova
+6,2010,FRE,French Open,Major,,1st,Loss,,Two,12,211,95,Na,Li
+7,2012,FRE,French Open,Major,,1st,Loss,Win,Two,16,158,42,Dominika,Cibulkova
+8,2012,WIM,Wimbledon,Major,,1st,Loss,Loss,Three,178,157,56,Jana,Cepelova
+9,2012,USO,US Open,Major,,1st,Win,Win,Two,54,150,86,Marina,Erakovic
+10,2012,USO,US Open,Major,,2nd,Win,Win,Two,20,150,15,Anastasia,Pavlyuchenkova
+11,2012,USO,US Open,Major,,3rd,Loss,Win,Two,11,150,87,Marion,Bartoli
+12,2012,QUE,Quebec City,International,,1st,Win,Win,Three,185,123,78,Madison,Brengle
+13,2012,QUE,Quebec City,International,,2nd,Win,Loss,Three,141,123,22,Annika,Beck
+14,2012,QUE,Quebec City,International,,QF,Win,Win,Two,115,123,88,Melanie,Oudin
+15,2012,QUE,Quebec City,International,,SF,Loss,Win,Two,60,123,75,Lucie,Hradecka
+16,2013,AUS,Australian Open,Major,,1st,Win,Win,Three,27,98,135,Timea,Babos
+17,2013,AUS,Australian Open,Major,,2nd,Loss,Win,Two,75,98,124,Sloane,Stephens
+18,2013,PAR,Paris Open,Premier,,1st,Win,Win,Three,45,87,62,Julia,Goerges
+19,2013,PAR,Paris Open,Premier,,2nd,Win,Win,Two,8,87,146,Yanina,Wickmayer
+20,2013,PAR,Paris Open,Premier,,QF,Win,Win,Two,22,87,107,Petra,Kvitova
+21,2013,PAR,Paris Open,Premier,,SF,Loss,Win,Two,19,87,92,Mona,Barthel
+22,2013,#N/A,Fed Cup WG2 R1: FRA vs GER,#N/A,,RR,Loss,Win,Two,19,69,62,Julia,Goerges
+23,2013,MEM,Memphis,International,,1st,Win,Win,Two,40,63,36,Courtney,Collins
+24,2013,MEM,Memphis,International,,2nd,Win,Win,Three,451,63,144,Victoria,Duval
+25,2013,MEM,Memphis,International,,QF,Loss,Win,Two,40,63,112,Sabine,Lisicki
+26,2013,FLO,Florianopolis,International,,1st,Win,Win,Two,183,58,21,Anne,Keothavong
+27,2013,FLO,Florianopolis,International,,2nd,Win,Win,Two,105,58,131,Tatjana,Malek
+28,2013,FLO,Florianopolis,International,,QF,Win,Win,Two,100,58,89,Melinda,Czink
+29,2013,FLO,Florianopolis,International,,SF,Loss,Win,Two,75,58,93,Monica,Niculescu
+30,2013,IND,Indian Wells,Mandatory,,1st,Loss,Win,Two,60,51,33,Chanelle,Scheepers
+31,2013,MIA,Miami,Mandatory,,1st,Win,Win,Two,58,48,3,Aleksandra,Wozniak
+32,2013,MIA,Miami,Mandatory,,2nd,Win,Win,Two,14,48,42,Dominika,Cibulkova
+33,2013,CHA,Charleston,Premier,,1st,Loss,Loss,Three,99,49,81,Mallory,Burdette
+34,2013,MAR,Marrakech,International,,1st,Win,Win,Three,95,51,4,Alexandra,Cadantu
+35,2013,MAR,Marrakech,International,,2nd,Win,Win,Two,96,51,147,Yulia,Putintseva
+36,2013,MAR,Marrakech,International,,QF,Loss,Win,Two,70,51,33,Chanelle,Scheepers
+37,2013,OEI,Oeiras,Premier,,1st,Loss,Win,Two,40,46,63,Kaia,Kanepi
+38,2013,MAD,Madrid,Mandatory,,1st,Win,Win,Two,65,45,122,Silvia,Soler Espinosa
+39,2013,MAD,Madrid,Mandatory,,2nd,Loss,Win,Three,12,45,84,Maria,Kirilenko
+40,2013,ROM,Rome,Premier 5,,1st,Loss,Win,Two,16,43,42,Dominika,Cibulkova
+41,2013,FRE,French Open,Major,,1st,Win,Win,Two,65,46,73,Lauren,Davis
+42,2013,FRE,French Open,Major,,2nd,Loss,Win,Two,9,46,114,Samantha,Stosur
+43,2013,BIR,Birmingham,Premier,,1st,Win,Loss,Three,194,39,130,Tara,Moore
+44,2013,BIR,Birmingham,Premier,,2nd,Win,Win,Two,140,39,61,Johanna,Konta
+45,2013,BIR,Birmingham,Premier,,3rd,Loss,Win,Three,60,39,38,Daniela,Hantuchova
+46,2013,SHE,S-Hertogenbosch,International,,1st,Loss,Win,Two,65,39,137,Tsvetana,Pironkova
+47,2013,WIM,Wimbledon,Major,,1st,Loss,Win,Two,3,37,85,Maria,Sharapova
+48,2013,PAL,Palermo,International,,1st,Win,Win,Two,118,39,83,Maria,Joao Koehler
+49,2013,PAL,Palermo,International,,2nd,Loss,Loss,Three,108,39,48,Estrella,Cabeza Candela
+50,2013,#N/A,Canadian Open,#N/A,,1st,Loss,Win,Two,17,39,124,Sloane,Stephens
+51,2013,CIN,Cincinnati,Premier 5,,1st,Loss,Win,Two,140,38,139,Vania,King
+52,2013,NEW,New Haven,Premier,,1st,Loss,Win,Two,18,37,112,Sabine,Lisicki
+53,2013,USO,US Open,Major,,1st,Win,Win,Three,97,36,14,Anabel,Medina Garrigues
+54,2013,USO,US Open,Major,,2nd,Loss,Win,Two,26,36,55,Jamie,Hampton
+55,2013,QUE,Quebec City,International,,1st,Win,Win,Three,130,40,88,Melanie,Oudin
+56,2013,QUE,Quebec City,International,,2nd,Win,RET,Two,89,40,108,Petra,Martic
+57,2013,QUE,Quebec City,International,,QF,Loss,Win,Two,53,40,49,Eugenie,Bouchard
+58,2013,TKY,Tokyo,International,,1st,Win,Win,Two,209,49,32,Casey,Dellacqua
+59,2013,BEI,Beijing,Mandatory,,1st,Loss,Loss,Three,15,47,29,Carla,Suarez Navarro
+60,2013,OSA,Osaka,International,,1st,Win,Win,Two,274,49,3,Aleksandra,Wozniak
+61,2013,OSA,Osaka,International,,2nd,Loss,Win,Three,53,49,60,Jie,Zheng
+62,2013,LUX,Luxembourg,International,,1st,Loss,Win,Two,260,47,134,Tereza,Smitkova
+63,2014,BRI,Brisbane,Premier,,1st,Loss,Loss,Two,55,9,18,Angelique,Kerber
+64,2014,HOB,Hobart,International,,1st,Win,Win,Three,54,17,114,Samantha,Stosur
+65,2014,HOB,Hobart,International,,2nd,Loss,Win,Three,54,79,122,Silvia,Soler Espinosa
+66,2014,AUS,Australian Open,Major,,1st,Loss,Loss,Two,55,46,126,Stefanie,Voegele
+67,2014,PAR,Paris Open,Premier,,1st,Win,Win,Two,62,39,17,Andrea,Petkovic
+68,2014,PAR,Paris Open,Premier,,2nd,Loss,Loss,Two,62,10,123,Simona,Halep
+69,2014,#N/A,Doha,#N/A,,1st,Loss,Loss,Two,71,82,56,Jana,Cepelova
+70,2014,ACA,Acapulco,International,,1st,Loss,Loss,Two,76,70,34,Christina,Mchale
+71,2014,IND,Indian Wells,Mandatory,,1st,Win,Win,Two,91,16,29,Carla,Suarez Navarro
+72,2014,IND,Indian Wells,Mandatory,,2nd,Loss,Loss,Two,91,42,121,Shuai,Zhang
+73,2014,MIA,Miami,Mandatory,,1st,Loss,Loss,Two,82,69,1,Ajla,Tomljanovic
+74,2014,MON,Monterrey,International,,1st,Win,Win,Two,90,14,31,Caroline,Wozniacki
+75,2014,MON,Monterrey,International,,2nd,Loss,Loss,Two,90,114,61,Johanna,Konta
+76,2014,BOG,Bogota,International,,1st,Loss,Loss,Three,87,134,6,Alexandra,Panova
+77,2014,OEI,Oeiras,Premier,,1st,Loss,Loss,Two,100,33,46,Elena,Vesnina
+78,2014,MAD,Madrid,Mandatory,,1st,Loss,Loss,Two,101,35,84,Maria,Kirilenko
+79,2014,STR,Strasbourg,International,,1st,Loss,Loss,Two,104,71,1,Ajla,Tomljanovic
+80,2014,FRE,French Open,Major,,1st,Win,Win,Three,103,27,17,Andrea,Petkovic
+81,2014,FRE,French Open,Major,,2nd,Win,Win,Three,103,2,95,Na,Li
+82,2014,FRE,French Open,Major,,3rd,Loss,Loss,Three,103,45,7,Alison,Riske
+83,2014,BIR,Birmingham,Premier,,1st,Loss,Win,Three,103,86,119,Shahar,Peer
+84,2014,WIM,Wimbledon,Major,,1st,Loss,Loss,Two,107,72,148,Zarina,Diyas
+85,2014,IST,Istanbul,International,,1st,Win,Win,Two,102,15,31,Caroline,Wozniacki
+86,2014,IST,Istanbul,International,,2nd,Win,Loss,Three,102,75,51,Francesca,Schiavone
+87,2014,IST,Istanbul,International,,QF,Win,Win,Two,102,33,69,Klara,Koukalova
+88,2014,IST,Istanbul,International,,SF,Loss,Loss,Two,102,77,103,Patricia,Mayr Achleitner
+89,2014,BAK,Baku,International,,1st,Win,Win,Three,81,75,51,Francesca,Schiavone
+90,2014,BAK,Baku,International,,2nd,Win,Loss,Three,81,76,43,Donna,Vekic
+91,2014,BAK,Baku,International,,QF,Loss,Loss,Three,81,57,53,Heather,Watson
+92,2014,WAS,Washington DC,International,,1st,Win,Win,Two,78,40,70,Kurumi,Nara
+93,2014,WAS,Washington DC,International,,2nd,Win,Win,Two,78,143,133,Taylor,Townsend
+94,2014,WAS,Washington DC,International,,QF,Loss,Win,Three,78,17,76,Lucie,Safarova
+95,2014,USO,US Open,Major,,1st,Loss,Loss,Two,73,4,107,Petra,Kvitova
+96,2014,QUE,Quebec City,International,,1st,Win,Loss,Three,82,195,118,Sesil,Karatantcheva
+97,2014,QUE,Quebec City,International,,2nd,Loss,Loss,Two,82,142,97,Naomi,Broady
+98,2014,OSA,Osaka,International,,1st,Loss,Loss,Two,81,38,35,Coco,Vandeweghe
+99,2014,MOS,Moscow,Premier,,1st,Win,Win,Two,87,128,65,Katerina,Siniakova
+100,2014,MOS,Moscow,Premier,,2nd,Loss,Loss,Two,87,27,64,Karolina,Pliskova
+101,2015,AUK,Auckland,International,,R32,Loss,,Two,67,64,46,Elena,Vesnina
+102,2015,SYD,Sydney,Premier,,R32,Loss,,Two,69,11,42,Dominika,Cibulkova
+103,2015,#N/A,Sydney Q,#N/A,,Q1,Win,,Three,69,151,128,Su,Wei Hsieh
+104,2015,#N/A,Sydney Q,#N/A,,Q2,Win,,Two,69,87,5,Alexandra,Dulgheru
+105,2015,#N/A,Sydney Q,#N/A,,Q3,Win,,Three,69,147,61,Johanna,Konta
+106,2015,AUS,Australian Open,Major,,R64,Loss,,Three,71,258,26,Bethanie,Mattek Sands
+107,2015,AUS,Australian Open,Major,,R128,Win,,Three,71,28,112,Sabine,Lisicki
+108,2015,#N/A,Fed Cup WG R1: ITA vs FRA,#N/A,,RR,Win,,Two,74,13,115,Sara,Errani
+109,2015,ANT,Antwerp,International,,R16,Win,,Two,74,15,76,Lucie,Safarova
+110,2015,ANT,Antwerp,International,,R32,Win,,RET,74,67,122,Silvia,Soler Espinosa
+111,2015,#N/A,Doha Q,#N/A,,Q1,Win,,Two,68,262,101,Olga,Savchuk
+112,2015,MON,Monterrey,International,,QF,Loss,,Two,64,6,12,Ana,Ivanovic
+113,2015,MON,Monterrey,International,,R16,Win,,Two,64,155,142,Vera,Zvonareva
+114,2015,MON,Monterrey,International,,R32,Win,,Two,64,58,134,Tereza,Smitkova
+115,2015,IND,Indian Wells,Mandatory,,R128,Loss,,Three,63,41,92,Mona,Barthel
+116,2015,MIA,Miami,Mandatory,,R32,Loss,,Two,64,10,17,Andrea,Petkovic
+117,2015,MIA,Miami,Mandatory,,R128,Win,,Two,64,84,69,Klara,Koukalova
+118,2015,MIA,Miami,Mandatory,,R64,Win,,Two,64,22,24,Barbora,Zahlavova Strycova
+119,2015,KAT,Katowice Open,International,,R32,Loss,,Two,56,62,93,Monica,Niculescu
+120,2015,#N/A,Fed Cup WG SF: CZE vs FRA,#N/A,,RR,Loss,,Two,58,4,107,Petra,Kvitova
+121,2015,MAR,Marrakech,International,,SF,Loss,,Two,59,86,135,Timea,Babos
+122,2015,MAR,Marrakech,International,,QF,Win,,Two,59,97,71,Lara,Arruabarrena
+123,2015,MAR,Marrakech,International,,R16,Win,,Two,59,20,52,Garbine,Muguruza
+124,2015,MAR,Marrakech,International,,R32,Win,,Three,59,82,86,Marina,Erakovic
+125,2015,#N/A,Madrid Q,#N/A,,Q1,Win,,Two,50,112,91,Misaki,Doi
+126,2015,ROM,Rome,Premier 5,,R32,Win,,Two,53,8,45,Ekaterina,Makarova
+127,2015,ROM,Rome,Premier 5,,R64,Win,,Two,53,50,94,Monica,Puig
+128,2015,#N/A,Rome Italian Open Q,#N/A,,Q2,Loss,,Three,53,69,65,Katerina,Siniakova
+129,2015,#N/A,Rome Italian Open Q,#N/A,,Q1,Win,,Two,53,88,54,Irina,Falconi
+130,2015,STR,Strasbourg,International,,F,Loss,,Three,54,26,114,Samantha,Stosur
+131,2015,STR,Strasbourg,International,,QF,WO,,WO,54,16,79,Madison,Keys
+132,2015,STR,Strasbourg,International,,R16,Win,,Two,54,46,7,Alison,Riske
+133,2015,STR,Strasbourg,International,,R32,Win,,Two,54,94,106,Pauline,Parmentier
+134,2015,STR,Strasbourg,International,,SF,Win,,RET,54,251,145,Virginie,Razzano
+135,2015,FRE,French Open,Major,,R32,Loss,,Two,44,93,8,Alison,Van Uytvanck
+136,2015,FRE,French Open,Major,,R128,Win,,Two,44,6,49,Eugenie,Bouchard
+137,2015,FRE,French Open,Major,,R64,Win,,Two,44,89,39,Danka,Kovinic
+138,2015,SHE,S-Hertogenbosch,International,,QF,Loss,,Three,43,33,25,Belinda,Bencic
+139,2015,SHE,S-Hertogenbosch,International,,R16,Win,,Three,43,57,70,Kurumi,Nara
+140,2015,SHE,S-Hertogenbosch,International,,R32,Win,,Three,43,91,135,Timea,Babos
+141,2015,BIR,Birmingham,Premier,,SF,Loss,,Two,43,12,64,Karolina,Pliskova
+142,2015,BIR,Birmingham,Premier,,QF,Win,,Three,43,3,123,Simona,Halep
+143,2015,BIR,Birmingham,Premier,,R16,Win,,Two,43,28,24,Barbora,Zahlavova Strycova
+144,2015,BIR,Birmingham,Premier,,R32,Win,,Two,43,11,49,Eugenie,Bouchard
+145,2015,BIR,Birmingham,Premier,,R64,Win,,Two,43,44,7,Alison,Riske
+146,2015,WIM,Wimbledon,Major,,R32,Loss,,Two,38,24,143,Victoria,Azarenka
+147,2015,WIM,Wimbledon,Major,,R128,Win,,Two,38,60,5,Alexandra,Dulgheru
+148,2015,WIM,Wimbledon,Major,,R64,Win,,Two,38,147,58,Jelena,Ostapenko
+149,2015,WAS,Washington DC,International,,R32,Loss,,Two,38,21,114,Samantha,Stosur
+150,2015,#N/A,Canadian Open,#N/A,,R64,Loss,,Three,39,17,115,Sara,Errani
+151,2015,CIN,Cincinnati,Premier 5,,R32,Loss,,Three,40,3,123,Simona,Halep
+152,2015,CIN,Cincinnati,Premier 5,,R64,Win,,Two,40,68,38,Daniela,Hantuchova
+153,2015,NEW,New Haven,Premier,,R16,Loss,,Three,39,58,42,Dominika,Cibulkova
+154,2015,NEW,New Haven,Premier,,R32,Win,,Two,39,16,115,Sara,Errani
+155,2015,USO,US Open,Major,,QF,Loss,,Three,40,43,111,Roberta,Vinci
+156,2015,USO,US Open,Major,,R128,Win,,Two,40,30,129,Svetlana,Kuznetsova
+157,2015,USO,US Open,Major,,R16,Win,,Three,40,13,45,Ekaterina,Makarova
+158,2015,USO,US Open,Major,,R32,Win,,Two,40,133,41,Darya,Kasatkina
+159,2015,USO,US Open,Major,,R64,Win,,Two,40,98,27,Bojana,Jovanovski
+160,2015,TKY,Tokyo,International,,R32,Loss,,Three,28,68,13,Ana,Konjuh
+161,2015,WUH,Wuhan,Premier 5,,R16,Loss,,Two,27,29,20,Anna Karolina,Schmiedlova
+162,2015,WUH,Wuhan,Premier 5,,R32,Win,,Three,27,17,79,Madison,Keys
+163,2015,WUH,Wuhan,Premier 5,,R64,Win,,Two,27,115,102,Patricia,Maria Tig
+164,2015,BEI,Beijing,Mandatory,,R64,Loss,,Two,28,19,79,Madison,Keys
+165,2015,#N/A,Tianjin Open,#N/A,,QF,Loss,,Three,27,90,27,Bojana,Jovanovski
+166,2015,#N/A,Tianjin Open,#N/A,,R16,Win,,Two,27,88,138,Urszula,Radwanska
+167,2015,#N/A,Tianjin Open,#N/A,,R32,Win,,Two,27,168,50,Fangzhou,Liu
+168,2015,MOS,Moscow,Premier,,R16,Win,,Two,27,66,82,Margarita,Gasparyan
+169,2015,MOS,Moscow,Premier,,R32,Loss,,Three,27,149,11,Ana,Bogdan
+170,2016,BRI,Brisbane,Premier,,1st,Loss,Loss,Two,43,,9,Alize,Cornet
+171,2016,SYD,Sydney,Premier,,1st,Loss,Loss,Two,34,,30,Caroline,Garcia
+172,2016,AUS,Australian Open,Major,,1st,Win,Win,Two,38,,42,Dominika,Cibulkova
+173,2016,AUS,Australian Open,Major,,2nd,Win,Win,Two,106,,99,Nicole,Gibbs
+174,2016,AUS,Australian Open,Major,,3rd,Loss,Loss,Three,109,,40,Daria,Gavrilova
+175,2016,#N/A,Fed Cup,#N/A,,,Win,,Two,,,28,Camila,Giorgi
+176,2016,#N/A,Fed Cup,#N/A,,,Loss,,Three,,,115,Sara,Errani
+177,2016,STP,St-Petersbourg,Premier,,1st,Loss,,Three,,,72,Laura,Siegemund
+178,2016,#N/A,Dubai,#N/A,,1st,Win,,Two,,,74,Lesia,Tsurenko
+179,2016,#N/A,Dubai,#N/A,,2nd,Loss,,Three,,,35,Coco,Vandeweghe
+180,2016,#N/A,Doha,#N/A,,1st,Loss,,Two,,,23,Barbora,Strycova
+181,2016,IND,Indian Wells,Mandatory,,1st,Loss,,Two,,,147,Yulia,Putintseva
+182,2016,MIA,Miami,Mandatory,,1st,Loss,,Two,,,99,Nicole,Gibbs
+183,2016,CHA,Charleston,Premier,,1st,Win,,Two,,,90,Mirjana,Lucic Baroni
+184,2016,CHA,Charleston,Premier,,2nd,Loss,,Two,,,132,Tatjana,Maria
+185,2016,#N/A,Fed Cup,#N/A,,SF,Win,,Two,,,110,Richel,Hogenkamp
+186,2016,#N/A,Fed Cup,#N/A,,SF,Loss,,Two,,,67,Kiki,Bertens
+187,2016,STU,Stuttgart,Premier,,1st,Loss,,Two,,,17,Andrea,Petkovic
+188,2016,MAD,Madrid,Mandatory,,1st,Loss,,Two,,,90,Mirjana,Lucic Baroni
+189,2016,ROM,Rome,Premier 5,,1st,Win,,,,,58,Jelena,Ostapenko
+190,2016,STR,Strasbourg,International,,1st,Win,,,,,78,Madison,Brengle
+191,2016,STR,Strasbourg,International,,2nd,Win,,,,,7,Alison,Riske
+192,2016,STR,Strasbourg,International,,QF,Win,,,,,10,Alla,Kudryatseva
+193,2016,STR,Strasbourg,International,,SF,Loss,,,,,90,Mirjana,Lucic Baroni
+194,2016,FRE,French Open,Major,,1st,Win,,,,,51,Francesca,Schiavone
+195,2016,FRE,French Open,Major,,2nd,Win,,,,,135,Timea,Babos
+196,2016,FRE,French Open,Major,,3rd,Loss,,,,,117,Serena,Williams
+197,2016,#N/A,Fed Cup,#N/A,,,Win,,,,,115,Sara,Errani
+198,2016,#N/A,Fed Cup,#N/A,,,Loss,,,,,28,Camila,Giorgi
+199,2016,SHE,S-Hertogenbosch,International,,1st,Win,,,,,113,Samantha,Crawford
+200,2016,SHE,S-Hertogenbosch,International,,2nd,Win,,,,,112,Sabine,Lisicki
+201,2016,SHE,S-Hertogenbosch,International,,QF,Win,,,,,146,Yanina,Wickmayer
+202,2016,SHE,S-Hertogenbosch,International,,SF,Win,,,,,10,Alla,Kudryatseva
+203,2016,SHE,S-Hertogenbosch,International,,F,Loss,,,,,2,Aleksandra,Krunic
+204,2016,EAS,Eastbourne,Premier,,1st,Win,,,,,79,Madison,Keys
+205,2016,EAS,Eastbourne,Premier,,2nd,Win,,,,,66,Kateryna,Bondarenko
+206,2016,EAS,Eastbourne,Premier,,QF,Win,,,,,18,Angelique,Kerber
+207,2016,EAS,Eastbourne,Premier,,SF,Loss,,,,,120,Shelby,Rogers
+208,2016,WIM,Wimbledon,Major,,1st,Loss,,,,,77,Luksika,Kumkhum
+209,2016,WAS,Washington DC,International,,1st,Win,,,,,116,Sara,Sorribes Tormo
+210,2016,WAS,Washington DC,International,,2nd,Win,,,,,35,Coco,Vandeweghe
+211,2016,WAS,Washington DC,International,,QF,Loss,,,,,18,Angelique,Kerber
+212,2016,#N/A,Toronto?,#N/A,,1st,Loss,,,,,57,Jelena,Jankovic
+213,2016,#N/A,Olympics,#N/A,,1st,Win,,,,,79,Madison,Keys
+214,2016,#N/A,Olympics,#N/A,,2nd,Loss,,,,,#NUM!,,
+215,2016,CIN,Cincinnati,Premier 5,,1st,Win,,,,,66,Kateryna,Bondarenko
+216,2016,CIN,Cincinnati,Premier 5,,2nd,Loss,,,,,18,Angelique,Kerber
+217,2016,NEW,New Haven,Premier,,1st,Loss,,,,,120,Shelby,Rogers
+218,2016,USO,US Open,Major,,1st,Win,,,,,96,Nao,Hibino
+219,2016,USO,US Open,Major,,2nd,Loss,,,,,15,Anastasia,Pavlyuchenkova
+220,2016,SEO,Seoul,International,,1st,Win,,,,,77,Luksika,Kumkhum
+221,2016,SEO,Seoul,International,,2nd,Loss,,,,,116,Sara,Sorribes Tormo
+222,2016,WUH,Wuhan,Premier 5,,1st,Win,,,,,35,Coco,Vandeweghe
+223,2016,WUH,Wuhan,Premier 5,,2nd,Loss,,,,,18,Angelique,Kerber
+224,2016,BEI,Beijing,Mandatory,,1st,Win,,,,,57,Jelena,Jankovic
+225,2016,BEI,Beijing,Mandatory,,2nd,Loss,,,,,79,Madison,Keys
+226,2016,HKG,Hong Kong,International,,1st,Win,,,,,37,Dalila,Jakupovic
+227,2016,HKG,Hong Kong,International,,2nd,Win,,,,,96,Nao,Hibino
+228,2016,HKG,Hong Kong,International,,QF,Win,,,,,26,Bethanie,Mattek Sands
+229,2016,HKG,Hong Kong,International,,SF,Win,,,,,40,Daria,Gavrilova
+230,2016,HKG,Hong Kong,International,,F,Loss,,,,,31,Caroline,Wozniacki
+231,2016,MOS,Moscow,Premier,,1st,Win,,,,,19,Anna,Kalinskaya
+232,2016,MOS,Moscow,Premier,,2nd,Loss,,,,,135,Timea,Babos
+233,2016,#N/A,Fed Cup,#N/A,,F,Loss,,,,,64,Karolina,Pliskova
+234,2017,HOB,Hobart,International,,1st,Loss,Loss,Two,127,45,#NUM!,Elise ,Meertens
+235,2017,AUS,Australian Open,Major,,1st,Loss,Loss,Two,36,44,13,Ana,Konjuh
+236,2017,STP,St-Petersbourg,Premier,,1st,Win,Win,Two,85,51,#NUM!,Elise,Meertens
+237,2017,STP,St-Petersbourg,Premier,,2nd,Win,Win,Two,11,51,141,Venus,Williams
+238,2017,STP,St-Petersbourg,Premier,,QF,Win,Win,Two,21,51,111,Roberta,Vinci
+239,2017,STP,St-Petersbourg,Premier,,SF,Win,Loss,Three,115,51,98,Natalia,Vikhlyantseva
+240,2017,STP,St-Petersbourg,Premier,,F,Win,Loss,Three,34,51,147,Yulia,Putintseva
+241,2017,#N/A,Fed Cup,#N/A,,R1,Win,Win,Two,81,31,25,Belinda,Bencic
+242,2017,#N/A,Fed Cup,#N/A,,R1,Loss,Loss,Three,16,31,136,Timea,Bacsinszky
+243,2017,#N/A,Dubai,#N/A,,1st,Win,Win,Two,40,31,65,Katerina,Siniakova
+244,2017,#N/A,Dubai,#N/A,,2nd,Win,Win,Two,3,31,64,Karolina,Pliskova
+245,2017,#N/A,Dubai,#N/A,,3rd,Loss,Loss,Two,76,31,109,Qiang,Wang
+246,2017,ACA,Acapulco,International,,1st,Win,Win,Two,91,30,140,Varvara,Lepchenko
+247,2017,ACA,Acapulco,International,,2nd,Win,Win,Three,73,30,53,Heather,Watson
+248,2017,ACA,Acapulco,International,,QF,Win,Win,Two,76,30,68,Kirsten,Flipkens
+249,2017,ACA,Acapulco,International,,SF,Win,Win,Three,45,30,34,Christina,Mchale
+250,2017,ACA,Acapulco,International,,F,Loss,Loss,Two,50,30,74,Lesia,Tsurenko
+251,2017,IND,Indian Wells,Mandatory,,1st,Win,Win,Two,61,26,22,Annika,Beck
+252,2017,IND,Indian Wells,Mandatory,,2nd,Win,Win,Two,4,26,123,Simona,Halep
+253,2017,IND,Indian Wells,Mandatory,,3rd,Win,Win,Two,38,26,73,Lauren,Davis
+254,2017,IND,Indian Wells,Mandatory,,QF,Win,Win,Two,14,26,31,Caroline,Wozniacki
+255,2017,IND,Indian Wells,Mandatory,,SF,Win,Loss,Three,15,26,46,Elena,Vesnina
+256,2017,MIA,Miami,Mandatory,,1st,Loss,Loss,Two,95,26,104,Patricia Maria,Tig
+257,2017,#N/A,Fed Cup,#N/A,,R2,Win,Win,Two,82,19,116,Sara,Sorribes Tormo
+258,2017,#N/A,Fed Cup,#N/A,,R2,Win,Win,Two,152,19,122,Silvia,Soler Espinosa
+259,2017,STU,Stuttgart,Premier,,1st,Win,Win,Two,21,19,90,Mirjana,Lucic Baroni
+260,2017,STU,Stuttgart,Premier,,2nd,Win,Win,Two,2,19,18,Angelique,Kerber
+261,2017,STU,Stuttgart,Premier,,QF,Win,Win,Two,25,19,29,Carla,Suarez Navarro
+262,2017,STU,Stuttgart,Premier,,SF,Win,Loss,Three,,19,85,Maria,Sharapova
+263,2017,STU,Stuttgart,Premier,,F,Loss,Loss,Three,49,19,72,Laura,Siegemund
+264,2017,MAD,Madrid,Mandatory,,1st,Win,Loss,Three,29,17,13,Ana,Konjuh
+265,2017,MAD,Madrid,Mandatory,,2nd,Win,Win,Three,33,17,73,Lauren,Davis
+266,2017,MAD,Madrid,Mandatory,,3rd,Win,Win,Two,63,17,100,Oceane,Dodin
+267,2017,MAD,Madrid,Mandatory,,QF,Win,Win,Two,83,17,125,Sorana,Cirstea
+268,2017,MAD,Madrid,Mandatory,,SF,Win,Win,Two,9,17,129,Svetlana,Kuznetsova
+269,2017,MAD,Madrid,Mandatory,,F,Loss,Loss,Three,9,17,123,Simona,Halep
+270,2017,ROM,Rome,Premier 5,,1st,Loss,Loss,Two,45,14,62,Julia,Goerges
+271,2017,FRE,French Open,Major,,1st,Win,Win,Three,,,59,Jennifer,Brady
+272,2017,FRE,French Open,Major,,2nd,Win,Win,Two,,,115,Sara,Errani
+273,2017,FRE,French Open,Major,,3rd,Win,Loss,Three,,,120,Shelby,Rogers
+274,2017,FRE,French Open,Major,,4th,Win,Win,Three,,,52,Garbine,Muguruza
+275,2017,FRE,French Open,Major,,QF,Loss,Loss,Two,,,136,Timea,Bacsinszky
+276,2017,SHE,S-Hertogenbosch,International,,1st,Win,Win,Two,73,13,,,
+277,2017,SHE,S-Hertogenbosch,International,,2nd,Win,Loss,Three,90,13,,,
+278,2017,SHE,S-Hertogenbosch,International,,QF,Loss,Loss,Two,37,13,,,
+279,2017,BIR,Birmingham,Premier,,1st,Win,Win,Two,64,12,,,
+280,2017,BIR,Birmingham,Premier,,2nd,Win,Win,Two,31,12,,,
+281,2017,BIR,Birmingham,Premier,,QF,Loss,Loss,Two,16,12,,,
+282,2017,EAS,Eastbourne,Premier,,1st,Win,Win,Two,31,14,,,
+283,2017,EAS,Eastbourne,Premier,,2nd,Loss,Loss,Three,8,14,,,
+284,2017,WIM,Wimbledon,Major,,1st,Win,Win,Three,83,14,,,
+285,2017,WIM,Wimbledon,Major,,2nd,Loss,Win,Three,46,14,,,
+286,2017,WAS,Washington DC,International,,1st,Win,Win,Three,62,13,,,
+287,2017,WAS,Washington DC,International,,2nd,Loss,Loss,Two,167,13,,,
+288,2017,TOR,Toronto,Premier 5,,1st,Loss,Loss,Two,26,14,,,
+289,2017,CIN,Cincinnati,Premier 5,,1st,Loss,Loss,Two,26,14,,,
+290,2017,NEW,New Haven,Premier,,1st,Loss,Loss,Two,66,14,,,
+291,2017,USO,US Open,Major,,1st,Loss,Loss,Two,57,15,,,
+292,2017,TKI,Tokyo International,International,,1st,Loss,Loss,Two,123,15,,,
+293,2017,TKY,Tokyo,International,,1st,Loss,Loss,Two,57,15,,,
+294,2017,WUH,Wuhan,Premier 5,,1st,Loss,Loss,Two,47,15,,,
+295,2017,BEI,Beijing,Mandatory,,1st,Loss,Loss,Two,99,14,,,
+296,2017,MOS,Moscow,Premier,,1st,Loss,Loss,Three,100,13,,,
+297,2017,#N/A,WTA Elite,#N/A,,RR,Loss,,,,,,,
+298,2017,#N/A,WTA Elite,#N/A,,RR,Loss,,,,,,,
+299,2018,BRI,Brisbane,Premier,,1st,Loss,Win,Three,,,,,
+300,2018,SYD,Sydney,Premier,,1st,Loss,Loss,Two,,,,,
+301,2018,AUS,Australian Open,,,1st,Loss,Loss,Two,104,11,,,
+302,2018,STP,St-Petersbourg,Premier,,1st,Win,,,,26,,,
+303,2018,STP,St-Petersbourg,Premier,,QF,Win,,,,52,,,
+304,2018,STP,St-Petersbourg,Premier,,SF,Win,,,,23,,,
+305,2018,STP,St-Petersbourg,Premier,,F,Loss,,,,29,,,
+306,2018,,Fed Cup,,,,Win,,,,,,,
+307,2018,,Fed Cup,,,,Win,,,,,,,
+308,2018,,Doha,,,1st,Win,,,,,,,
+309,2018,,Doha,,,2nd,Loss,,,,,,,
+310,2018,,Dubai,,,1st,Loss,,,,,,,
+311,2018,,Acapulco,,,1st,Win,,,,,,,
+312,2018,,Acapulco,,,2nd,Win,,,,,,,
+313,2018,,Acapulco,,,QF,Loss,,,,,,,
+314,2018,,Indian Wells,,,1st,Win,,,,,,,
+315,2018,,Indian Wells,,,2nd,Loss,,,,,,,
